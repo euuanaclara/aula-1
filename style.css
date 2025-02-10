@@ -1,0 +1,38 @@
+body {background-color: #55ad55;
+}
+h1 {text-align: center;
+    font-size: 250%;
+     color: black;}
+
+#imagem1 {width: 15%;
+    margin-left: 12%;
+}
+
+#imagem2 {width: 15%;
+    margin-left: 14%;
+}
+
+#imagem3 {width: 16%;
+    margin-left: 14%;
+}
+
+#imagem4 {width: 15%;
+    margin-left: 12%;
+}
+
+#imagem5 {width: 15%;
+    margin-left: 14%;
+}
+
+#imagem6 {width: 16,2%;
+    margin-left: 14%;
+}
+
+#imagem7 {width: 35%;
+    margin-left: 30%;
+}
+
+h3 {font-size: 150%;
+    color:rgb(54, 105, 3);
+    margin-left: 3%;
+}
